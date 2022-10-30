@@ -1,0 +1,4 @@
+---
+layout: entries
+title: Blog
+---
